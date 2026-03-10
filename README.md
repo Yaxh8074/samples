@@ -3,3 +3,7 @@
 
 
 ![Diagram showing the actual backtracking process. A change is made (e.g., 'a' to 'c'), a recursive call is made, and then the change is reverted ('c' back to 'a'). This revert step is labeled as the backtracking step.](https://i.imgur.com/s6n7H3d.png)
+
+
+
+<img width="1920" height="1080" alt="Screenshot (8466)" src="https://github.com/user-attachments/assets/54e228cf-017f-420f-be79-a83b1ff8c70d" />
