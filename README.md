@@ -13,3 +13,7 @@
 
 
 <img width="1920" height="1080" alt="Screenshot (8479)" src="https://github.com/user-attachments/assets/d8485c16-62ca-4a75-a27c-c4829e1a4ec9" />
+
+
+<img width="1920" height="1080" alt="Screenshot (8481)" src="https://github.com/user-attachments/assets/b7fc6bc9-86a1-4d08-9dda-6408908edba7" />
+<img width="1920" height="1080" alt="Screenshot (8483)" src="https://github.com/user-attachments/assets/6965d19a-277b-45b0-9709-42724485a233" />
